@@ -1,0 +1,16 @@
+{
+  "hash": "ea46c735ec3c0193dcd3fae03a1c49d7912051e01d63739d98376fc8acea7126",
+  "pick": {
+    "id": "759cbede-f1ed-4e51-80e0-8c70fcedaf5b",
+    "team": "Red Sox -1.5",
+    "displayTitle": null,
+    "sport": "MLB",
+    "betType": "spread",
+    "line": "-1.5",
+    "odds": "-125",
+    "createdAt": "2026-04-05T16:35:31.290Z",
+    "confidence": 6,
+    "result": "LOSS"
+  },
+  "verified_at": "2026-04-16T21:13:54.303Z"
+}
