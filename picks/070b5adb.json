@@ -1,0 +1,16 @@
+{
+  "hash": "070b5adbfc93223d7c60dd2bd6150a80169b07af9e13f9440c4cc860d903162d",
+  "pick": {
+    "id": "6d4bff0b-f918-4da1-ad7f-8d788ad57c27",
+    "team": "Rangers",
+    "displayTitle": null,
+    "sport": "NHL",
+    "betType": "moneyline",
+    "line": "-160",
+    "odds": "-160",
+    "createdAt": "2026-04-04T23:00:04.945Z",
+    "confidence": 7,
+    "result": "WIN"
+  },
+  "verified_at": "2026-04-16T21:13:46.966Z"
+}
