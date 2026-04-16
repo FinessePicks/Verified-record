@@ -1,0 +1,16 @@
+{
+  "hash": "93853c422d099e4af4838c29e555f3e4a1677b552b2c886c6d5649a550400d5f",
+  "pick": {
+    "id": "4bc71d6d-7dce-4f8f-840a-bc2dd82027a0",
+    "team": "Michigan -7",
+    "displayTitle": null,
+    "sport": "NCAAB",
+    "betType": "spread",
+    "line": "-7",
+    "odds": "-110",
+    "createdAt": "2026-04-05T16:35:48.012Z",
+    "confidence": 7,
+    "result": "LOSS"
+  },
+  "verified_at": "2026-04-16T21:13:56.377Z"
+}
