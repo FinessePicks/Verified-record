@@ -1,0 +1,16 @@
+{
+  "hash": "6f2aabd5465ecb2ef7abf784217c7eb225e8e83b352e6a6d1a483ccecfa3400a",
+  "pick": {
+    "id": "082b07d7-3b68-4fab-8b35-204602ad7c83",
+    "team": "Reds/Marlins Under 7.5",
+    "displayTitle": "CIN/MIA Under 7.5",
+    "sport": "MLB",
+    "betType": "total",
+    "line": "under 7.5",
+    "odds": "-105",
+    "createdAt": "2026-04-08T04:57:56.770Z",
+    "confidence": 3,
+    "result": "WIN"
+  },
+  "verified_at": "2026-04-16T21:14:01.800Z"
+}
