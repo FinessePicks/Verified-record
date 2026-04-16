@@ -1,0 +1,16 @@
+{
+  "hash": "d25877597b5b71a6f6cb76b18dca04a1e906e32f78bef04c3f1786257a93d936",
+  "pick": {
+    "id": "a5433607-fd50-4de4-9b10-a226e3e4323a",
+    "team": "Yankees ML",
+    "displayTitle": "Yankees ML",
+    "sport": "MLB",
+    "betType": "moneyline",
+    "line": null,
+    "odds": "-198",
+    "createdAt": "2026-04-09T18:00:10.393Z",
+    "confidence": 4,
+    "result": "LOSS"
+  },
+  "verified_at": "2026-04-16T21:14:12.987Z"
+}
