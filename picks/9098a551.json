@@ -1,0 +1,16 @@
+{
+  "hash": "9098a551a97cb20fdc85feda99f49ffc32699329a79e14e576de317fa484db84",
+  "pick": {
+    "id": "4067987f-3d4f-41f7-8e8c-f1d5177f0541",
+    "team": "Angels",
+    "displayTitle": null,
+    "sport": "MLB",
+    "betType": "moneyline",
+    "line": "+135",
+    "odds": "+135",
+    "createdAt": "2026-04-05T17:00:05.671Z",
+    "confidence": 3,
+    "result": "LOSS"
+  },
+  "verified_at": "2026-04-16T21:13:59.099Z"
+}
