@@ -1,0 +1,16 @@
+{
+  "hash": "dc76944f58b829d6c1d431b95842ed15d707836a5ae3bf30ab65534e83b9e386",
+  "pick": {
+    "id": "5c16f002-5a54-4180-8c9f-d7e60f347d7c",
+    "team": "ANA",
+    "displayTitle": "Ducks ML",
+    "sport": "NHL",
+    "betType": "moneyline",
+    "line": null,
+    "odds": "-300",
+    "createdAt": "2026-04-12T21:04:04.979Z",
+    "confidence": 6,
+    "result": "WIN"
+  },
+  "verified_at": "2026-04-16T21:14:29.867Z"
+}
