@@ -1,0 +1,16 @@
+{
+  "hash": "1f0d0f6106e4df6263d8cf4cf5386293874c7d902540552ab24a4e08a476054a",
+  "pick": {
+    "id": "3e5de024-100f-4fae-b1f5-b61b36de8ddf",
+    "team": "Wrexham Double Chance (Draw or Win)",
+    "displayTitle": "Wrexham DC",
+    "sport": "Soccer",
+    "betType": "moneyline",
+    "line": "Double Chance",
+    "odds": "-110",
+    "createdAt": "2026-04-12T05:45:18.654Z",
+    "confidence": 8,
+    "result": "WIN"
+  },
+  "verified_at": "2026-04-16T21:14:20.483Z"
+}
