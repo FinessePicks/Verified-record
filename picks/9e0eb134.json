@@ -1,0 +1,16 @@
+{
+  "hash": "9e0eb1349e6a26f2c7585d021f4756ac7e2c1322bfdd2a614e95397e10f2befc",
+  "pick": {
+    "id": "d574f460-4d5b-4f5b-854a-50aabaeade85",
+    "team": "Flyers ML",
+    "displayTitle": "Flyers ML",
+    "sport": "NHL",
+    "betType": "moneyline",
+    "line": "+100",
+    "odds": "+100",
+    "createdAt": "2026-04-09T18:05:21.778Z",
+    "confidence": 3,
+    "result": "LOSS"
+  },
+  "verified_at": "2026-04-16T21:14:16.657Z"
+}
