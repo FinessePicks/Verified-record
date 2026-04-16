@@ -1,0 +1,16 @@
+{
+  "hash": "d76fa62879a037595ce09c2f3a0ffadd23bddd9f8f75587f51bf93a08a15301f",
+  "pick": {
+    "id": "e9661780-7b66-4e27-b221-427ac87ed685",
+    "team": "Timberwolves vs Magic Over 229.5",
+    "displayTitle": "MIN/ORL Over 229.5",
+    "sport": "NBA",
+    "betType": "total",
+    "line": "over 229.5",
+    "odds": "-110",
+    "createdAt": "2026-04-08T21:00:26.670Z",
+    "confidence": 4,
+    "result": "WIN"
+  },
+  "verified_at": "2026-04-16T21:14:04.603Z"
+}
