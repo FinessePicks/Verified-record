@@ -1,0 +1,16 @@
+{
+  "hash": "f2653c980a6856d6cafffac20aaef2f09295ae0f28de314616445e4aae7d4263",
+  "pick": {
+    "id": "fcecb4c7-9862-435c-8efd-e0dfc39175ea",
+    "team": "Buffalo Sabres ML",
+    "displayTitle": "Sabres ML",
+    "sport": "NHL",
+    "betType": "moneyline",
+    "line": null,
+    "odds": "125",
+    "createdAt": "2026-04-15T16:25:48.962Z",
+    "confidence": 8,
+    "result": "LOSS"
+  },
+  "verified_at": "2026-04-16T21:14:32.630Z"
+}
