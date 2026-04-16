@@ -1,0 +1,16 @@
+{
+  "hash": "1dc02de6c11eb93d2da9d0e9d4ed54ee5aeed3be92e2ea085ef12749f913c82f",
+  "pick": {
+    "id": "e61b64bb-cbb1-4414-abd0-923e832ce8ed",
+    "team": "Florida Panthers",
+    "displayTitle": "Florida Panthers ML",
+    "sport": "NHL",
+    "betType": "moneyline",
+    "line": null,
+    "odds": "135",
+    "createdAt": "2026-04-15T22:24:31.069Z",
+    "confidence": 7,
+    "result": "WIN"
+  },
+  "verified_at": "2026-04-16T21:14:35.681Z"
+}
