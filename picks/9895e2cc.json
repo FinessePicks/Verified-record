@@ -1,0 +1,16 @@
+{
+  "hash": "9895e2cc0c153cfa2bd069251c80e86bdeb756396a259259126e81e399fc04ab",
+  "pick": {
+    "id": "ecac204f-4292-45d2-a6b9-7157ac7552b9",
+    "team": "Toronto Blue Jays ML",
+    "displayTitle": "Blue Jays ML",
+    "sport": "MLB",
+    "betType": "moneyline",
+    "line": "+155",
+    "odds": "-110",
+    "createdAt": "2026-04-08T22:00:11.453Z",
+    "confidence": 7,
+    "result": "LOSS"
+  },
+  "verified_at": "2026-04-16T21:14:05.534Z"
+}
