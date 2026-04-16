@@ -1,0 +1,16 @@
+{
+  "hash": "23364129af203e902fa05f71cbf32f3164778f94863e7bbfd2107d45a87ce311",
+  "pick": {
+    "id": "48518353-53f4-4a2c-b010-8570424aaadf",
+    "team": "Utah -1.5",
+    "displayTitle": null,
+    "sport": "NHL",
+    "betType": "spread",
+    "line": "-1.5",
+    "odds": "+114",
+    "createdAt": "2026-04-05T00:30:45.994Z",
+    "confidence": 4,
+    "result": "WIN"
+  },
+  "verified_at": "2026-04-16T21:13:49.713Z"
+}
