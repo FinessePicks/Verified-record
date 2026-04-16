@@ -1,0 +1,16 @@
+{
+  "hash": "51f8eb96cbb8897d3c17ac4d5c6881095868496a9bf4c1ed27aaa3a1b95e7136",
+  "pick": {
+    "id": "52fea3ce-d637-45d2-8183-a5340b5fdaa8",
+    "team": "Pelicans -5.5",
+    "displayTitle": null,
+    "sport": "NBA",
+    "betType": "spread",
+    "line": "-5.5",
+    "odds": "-110",
+    "createdAt": "2026-04-04T23:00:06.709Z",
+    "confidence": 7,
+    "result": "WIN"
+  },
+  "verified_at": "2026-04-16T21:13:47.870Z"
+}
