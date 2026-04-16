@@ -1,0 +1,16 @@
+{
+  "hash": "c3ce555a2ae658ba43af24cfc5da5394fb1286313f0e906c562a1079f86583cd",
+  "pick": {
+    "id": "791f3311-0428-44e7-9f0c-a4cd9d215bec",
+    "team": "Prado",
+    "displayTitle": "Prado",
+    "sport": "UFC",
+    "betType": "moneyline",
+    "line": null,
+    "odds": "-110",
+    "createdAt": "2026-04-09T19:00:47.240Z",
+    "confidence": 4,
+    "result": "LOSS"
+  },
+  "verified_at": "2026-04-16T21:14:18.537Z"
+}
