@@ -1,0 +1,16 @@
+{
+  "hash": "f5f6bcea099523c16122d11a91ce3a3739cd96a2eb2f273ba252ef17c11ca345",
+  "pick": {
+    "id": "53b0bee9-c277-4f3c-a57d-ede246104c14",
+    "team": "Arizona Diamondbacks",
+    "displayTitle": "ARI Diamondbacks ML",
+    "sport": "MLB",
+    "betType": "moneyline",
+    "line": "+120",
+    "odds": "+120",
+    "createdAt": "2026-04-09T01:00:07.381Z",
+    "confidence": 4,
+    "result": "WIN"
+  },
+  "verified_at": "2026-04-16T21:14:08.426Z"
+}
