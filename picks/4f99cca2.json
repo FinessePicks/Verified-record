@@ -1,0 +1,16 @@
+{
+  "hash": "4f99cca284e95e86505d14467a1d789cc4f32a52b3afbf76255b7a177e28377a",
+  "pick": {
+    "id": "93b110ea-46ff-41b9-b772-a171de17d90d",
+    "team": "Pacers -3",
+    "displayTitle": "IND Pacers -3",
+    "sport": "NBA",
+    "betType": "spread",
+    "line": "-3",
+    "odds": "-120",
+    "createdAt": "2026-04-09T15:00:18.569Z",
+    "confidence": 6,
+    "result": "WIN"
+  },
+  "verified_at": "2026-04-16T21:14:11.049Z"
+}
