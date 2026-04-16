@@ -1,0 +1,16 @@
+{
+  "hash": "f0f9a94e316db7c2be5879fb183e30d7407c1146a8e9e72985fbc779d85aab86",
+  "pick": {
+    "id": "bcb39f4b-4797-41b9-8167-c783f78d54a9",
+    "team": "Philadelphia Flyers ML",
+    "displayTitle": "PHI Flyers ML",
+    "sport": "NHL",
+    "betType": "moneyline",
+    "line": null,
+    "odds": "-105",
+    "createdAt": "2026-04-09T18:05:13.181Z",
+    "confidence": 3,
+    "result": "LOSS"
+  },
+  "verified_at": "2026-04-16T21:14:13.844Z"
+}
