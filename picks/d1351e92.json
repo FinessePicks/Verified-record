@@ -1,0 +1,16 @@
+{
+  "hash": "d1351e924da511b6e16258d12f6a363deeaf581e1f97eee520e417c14731c615",
+  "pick": {
+    "id": "db2a3961-de0a-4f1f-aa9f-1a7832c92c5a",
+    "team": "Carolina Hurricanes",
+    "displayTitle": null,
+    "sport": "NHL",
+    "betType": "moneyline",
+    "line": "-125",
+    "odds": "-125",
+    "createdAt": "2026-04-05T16:36:57.241Z",
+    "confidence": 4,
+    "result": "WIN"
+  },
+  "verified_at": "2026-04-16T21:13:57.259Z"
+}
