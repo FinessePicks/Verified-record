@@ -1,0 +1,16 @@
+{
+  "hash": "e3958ba2ca9465f2dc4508c80c2a567f0a60891a54bc371a70bf40fdcb92f55f",
+  "pick": {
+    "id": "adf6c0f0-3f59-4786-9a9c-970c901f7e8f",
+    "team": "New York Knicks -4.5",
+    "displayTitle": "NYK Knicks -4.5",
+    "sport": "NBA",
+    "betType": "spread",
+    "line": "-4.5",
+    "odds": "-110",
+    "createdAt": "2026-04-09T14:00:05.583Z",
+    "confidence": 6,
+    "result": "WIN"
+  },
+  "verified_at": "2026-04-16T21:14:10.250Z"
+}
