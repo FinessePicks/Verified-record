@@ -1,0 +1,16 @@
+{
+  "hash": "525e86c079b236908272d6678268d30a7e84d78eb48abf2eb0f43bccb619dce4",
+  "pick": {
+    "id": "5e80f00c-8255-4aa7-90b4-6ed5a2e13442",
+    "team": "Houston Astros ML",
+    "displayTitle": "Astros ML",
+    "sport": "MLB",
+    "betType": "moneyline",
+    "line": "-177",
+    "odds": "-177",
+    "createdAt": "2026-04-08T04:57:54.345Z",
+    "confidence": 6,
+    "result": "LOSS"
+  },
+  "verified_at": "2026-04-16T21:14:00.928Z"
+}
