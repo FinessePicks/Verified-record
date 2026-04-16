@@ -1,0 +1,16 @@
+{
+  "hash": "3c36e42d827e8b540d35b83077e60847d335ed91adb70c06b5f16f54edec778e",
+  "pick": {
+    "id": "def17025-6c7b-4f23-ba66-5a551e00966a",
+    "team": "76ers 1Q ML",
+    "displayTitle": "76ers 1Q ML",
+    "sport": "NBA",
+    "betType": "moneyline",
+    "line": "-120",
+    "odds": "-120",
+    "createdAt": "2026-04-15T14:53:19.812Z",
+    "confidence": 8,
+    "result": "WIN"
+  },
+  "verified_at": "2026-04-16T21:14:31.746Z"
+}
