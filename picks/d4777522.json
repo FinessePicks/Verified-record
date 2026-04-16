@@ -1,0 +1,16 @@
+{
+  "hash": "d477752292baba58b47dd1a9b968e4998e4a6b99344f03f13e657362ba6ded5e",
+  "pick": {
+    "id": "e3049112-f362-418a-9c95-c833da0e0d7a",
+    "team": "Montreal Canadiens",
+    "displayTitle": null,
+    "sport": "NHL",
+    "betType": "moneyline",
+    "line": "-155",
+    "odds": "-155",
+    "createdAt": "2026-04-05T16:36:57.243Z",
+    "confidence": 4,
+    "result": "WIN"
+  },
+  "verified_at": "2026-04-16T21:13:58.193Z"
+}
