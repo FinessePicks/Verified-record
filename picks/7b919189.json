@@ -1,0 +1,16 @@
+{
+  "hash": "7b919189b7af09ea1b6107c5b02b32318af04fd54473576d38272f29c972c6e2",
+  "pick": {
+    "id": "56b726c8-94c7-4f72-8d91-d89948f18bb1",
+    "team": "Hornets -3",
+    "displayTitle": "Hornets -3",
+    "sport": "NBA",
+    "betType": "spread",
+    "line": "-3",
+    "odds": null,
+    "createdAt": "2026-04-17T15:49:45.666Z",
+    "confidence": 8,
+    "result": "PENDING"
+  },
+  "verified_at": "2026-04-17T16:26:44.064Z"
+}
