@@ -1,0 +1,16 @@
+{
+  "hash": "5c6c577606b257cb636c21fc718831a311cd64ffb77d47739d0a52e936fa128f",
+  "pick": {
+    "id": "62268288-5815-4bd5-a823-82b4b04b24f1",
+    "team": "Guardians ML",
+    "displayTitle": "Guardians ML",
+    "sport": "MLB",
+    "betType": "moneyline",
+    "line": "-140",
+    "odds": "-140",
+    "createdAt": "2026-04-17T15:49:59.058Z",
+    "confidence": 8,
+    "result": "PENDING"
+  },
+  "verified_at": "2026-04-17T16:05:55.795Z"
+}
