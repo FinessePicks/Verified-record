@@ -1,0 +1,16 @@
+{
+  "hash": "7091346adb8aeed9f69200e53098decc9fb42a911276be82903dc1b5fa7035ae",
+  "pick": {
+    "id": "90b72728-2ec1-49b8-bfc7-6726a967fbae",
+    "team": "Como ML",
+    "displayTitle": "Como ML",
+    "sport": "Soccer",
+    "betType": "moneyline",
+    "line": null,
+    "odds": "1.63",
+    "createdAt": "2026-04-17T00:47:38.312Z",
+    "confidence": 8,
+    "result": "PENDING"
+  },
+  "verified_at": "2026-04-17T01:40:11.470Z"
+}
