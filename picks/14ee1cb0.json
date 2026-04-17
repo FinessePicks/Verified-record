@@ -1,0 +1,16 @@
+{
+  "hash": "14ee1cb0eaab71cfad9d09f5819fb50df3d9f7c3181375712f4a3eaa1833bb7e",
+  "pick": {
+    "id": "7a50b539-acb8-4d51-82da-595afda356a6",
+    "team": "Melbourne Victory Over 5.5 Corners",
+    "displayTitle": "Melbourne Victory Over 5.5 Corners",
+    "sport": "Soccer",
+    "betType": "prop",
+    "line": "over 5.5",
+    "odds": "1.70",
+    "createdAt": "2026-04-17T00:47:51.224Z",
+    "confidence": 8,
+    "result": "PENDING"
+  },
+  "verified_at": "2026-04-17T02:03:32.193Z"
+}
